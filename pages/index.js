@@ -76,8 +76,8 @@ export default function Home(props) {
 							
 							<a href="https://www.sjsu.edu/" target="_blank">
 								San Jose State University
-							</a>
-							 and experienced Software Engineer at Capgemini, I've led efficiency-driven projects and advanced full-stack technologies. My robust skill set is anchored in Java, React, and Cloud Technologies, blending hands-on experience and academic knowledge. I excel in critical thinking, problem-solving, and essential soft skills, striving to drive innovation and be a valuable asset to forward-thinking teams.							
+							</a>{" "}
+							and experienced Software Engineer at Capgemini, I've led efficiency-driven projects and advanced full-stack technologies. My robust skill set is anchored in Java, React, and Cloud Technologies, blending hands-on experience and academic knowledge. I excel in critical thinking, problem-solving, and essential soft skills, striving to drive innovation and be a valuable asset to forward-thinking teams.							
 						</p>
 						<div className="headings">
 							<a id="link-skills" href="#skills">
