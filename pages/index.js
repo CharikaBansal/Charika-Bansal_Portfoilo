@@ -72,12 +72,12 @@ export default function Home(props) {
 						<h1>Hello, World!</h1>
 						<h1>I'm Charika.</h1>
 						<p className="bio" >
-						    a Computer Engineering Graduate student from{" "}
+						    Computer Engineering Graduate student from{" "}
 							
 							<a href="https://www.sjsu.edu/" target="_blank">
 								San Jose State University
 							</a>
-							. As a Computer Engineering graduate from San Jose State University and experienced Software Engineer at Capgemini, I've led efficiency-driven projects and advanced full-stack technologies. My robust skill set is anchored in Java, React, and Oracle Cloud Technologies, blending hands-on experience and academic knowledge. I excel in critical thinking, problem-solving, and essential soft skills, striving to drive innovation and be a valuable asset to forward-thinking teams.							
+							 and experienced Software Engineer at Capgemini, I've led efficiency-driven projects and advanced full-stack technologies. My robust skill set is anchored in Java, React, and Cloud Technologies, blending hands-on experience and academic knowledge. I excel in critical thinking, problem-solving, and essential soft skills, striving to drive innovation and be a valuable asset to forward-thinking teams.							
 						</p>
 						<div className="headings">
 							<a id="link-skills" href="#skills">
