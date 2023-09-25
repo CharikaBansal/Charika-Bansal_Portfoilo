@@ -7,7 +7,7 @@ const Footer = () => {
 		<StyledFooter>
 			Made with&nbsp;
 			<GiTechnoHeart className="heart" size={22} />
-			&nbsp;by Harsh
+			&nbsp;by Charika
 			<br />
 			
 		</StyledFooter>

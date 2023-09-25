@@ -64,23 +64,23 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Harsh</title>
+        <title>Charika</title>
         <link rel="icon" type="image/png" href="/logo192.png" />
         <script src="/js/NotAtAllInteresting.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         {/* Primary Meta Tags */}
-        <title>Harsh's Portfolio</title>
-        <meta name="title" content="Harsh's Portfolio" />
+        <title>Charika's Portfolio</title>
+        <meta name="title" content="Charika's Portfolio" />
         <meta
           name="description"
-          content="Harsh is a passionate programmer who's on a journey to become a full-stack web developer. He's doing Masters in Software Engineering from San Jose State University, CA. He also likes playing console games and watching shows and hates talking about himself in the third person."
+          content="Charika is a passionate programmer who's on a journey to become a full-stack web developer. He's doing Masters in Software Engineering from San Jose State University, CA. He also likes playing console games and watching shows and hates talking about himself in the third person."
         />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://harshnaik.com/" />
-        <meta property="og:title" content="Harsh's Portfolio" />
+        <meta property="og:title" content="Charika's Portfolio" />
         <meta
           property="og:description"
           content="Harsh is a passionate programmer who's on a journey to become a full-stack web developer. He's doing Masters in Software Engineering from San Jose State University, CA. He also likes playing console games and watching shows and hates talking about himself in the third person."
