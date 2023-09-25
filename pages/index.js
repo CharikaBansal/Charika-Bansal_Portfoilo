@@ -102,20 +102,25 @@ export default function Home(props) {
 							<a href="mailto:charika.bansal@gmail.com">charika.bansal@gmail.com</a>
 						</div>
 						<div className="details">
-							<Link href="https://github.com/CharikaBansal" target="_blank">
-								<HiDocumentDownload size={18} />
-								<span>Resume</span>
-								<HiOutlineExternalLink size={16} />
-							</Link>
-							<Link
-								href="https://www.linkedin.com/in/charikabansal/"
-								target="_blank"
-							>
-								<FaLinkedin size={18} />
-								<span>Linkedin</span>
-								<HiOutlineExternalLink size={16} />
-							</Link>
-						</div>
+						<Link href="/pubilc/resume.pdf" download="Charika-Bansal-Resume.pdf">
+														<HiDocumentDownload size={18} />
+							<span>Download Resume</span>
+						</Link>
+						<Link href="https://github.com/CharikaBansal" target="_blank">
+							<HiDocumentDownload size={18} />
+							<span>Resume</span>
+							<HiOutlineExternalLink size={16} />
+						</Link>
+						<Link
+							href="https://www.linkedin.com/in/charikabansal/"
+							target="_blank"
+						>
+							<FaLinkedin size={18} />
+							<span>Linkedin</span>
+							<HiOutlineExternalLink size={16} />
+						</Link>
+					</div>
+
 						
 					</section>
 				</Left>
