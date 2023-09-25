@@ -1,39 +1,35 @@
 ---
 roles:
-  - name: "Application Developer"
-    type: "Internship"
-    image: "adp.png"
-    duration: "June 2023 - August 2023"
-    link: "https://adp.com/"
-    description:
-      - "Played a pivotal role in all phases of developing a team collaboration application, including requirements gathering, design, development, unit testing, functional testing, and load testing. The application includes features like a suggestion system with voting and commenting options, announcements, a contact list, to-do list management, and tracking of JIRA capabilitie"
-      - "Tech Stack: .NET, React, Azure Functions, SQL Server, Stored Procedure C, Entity Framework, Web API, Docker, JIRA API , JQL"
-
-  - name: "Programmer Analyst"
+  - name: "Software Engineer"
     type: "Full-Time"
-    image: "cts.png"
-    duration: "Dec 2021 - July 2022"
-    link: "https://www.cognizant.com/"
+    image: "capgemini.png"
+    duration: "Sep 2020 - July 2022"
+    link: "https://www.capgemini.com/"
     description:
-      - "Worked on all phases of the application development from requirements analysis, design, development, and testing of the application and employed several design patterns"
-      - "Broad involvement in the .NET system and different innovations: C#, Angular, Web API, and Microsoft Azure, Logic Apps, Angular, Power Platform"
-
-  - name: "Full Stack Development Intern"
+      - "Spearheaded Oracle Approvals Management (AME) as a sole offshore resource, reducing approval processing time by 50%"
+      - "Supervised PL/SQL packages, data fixes, and optimized SQL queries with index creation to improve the performance of multiple reports by up to 60%, reducing server wait times."
+      - "Streamlined Oracle Transportation Management (OTM) module, reducing order processing time by 90% and improving customer satisfaction by 70%"
+      - "Automated freight rate retrieval with Java in OTM, achieving 75% faster and 95% more accurate results"
+      - "Awarded with Profitability Award for outstanding contributions, resulting in a 15% increase in quarterly revenue."
+      
+  - name: "Web Developer Intern"
     type: "Internship"
-    image: "cts.png"
-    duration: "Apr 2021 - Sep 2021"
-    link: "https://www.cognizant.com/"
+    image: "smninfocom.png"
+    duration: "Jan 2020 - Apr 2020"
+    link: "https://www.smninfocom.com/"
     description:
-      - "Developed Multiple Microservices such as Authentication, Consumer, Policy, and Quotes for Policy Management System using JWT Authorization, DotNet Core Web API, and Deployed them on Azure cloud"
-      - "Frameworks and Technology: C#, Entity Framework, MVC Architecture, Web API, and Microsoft Azure"
+      - "Developed website layout and user interface using standard HTML, CSS, and JavaScript (ES6)"
+      - "Devised REST API's in React and tested on Postman, utilizing Git for version control."
+      - "Created dynamic web pages with React, resulting in a 50% faster load time and improved user experience."
+      - "Deployed JWT for authentication and authorization, enhancing web app security by 30%"
+      
+  - name: "Graduate Teaching Assistant"
+    type: "Part-Time"
+    image: "sjsu.png"
+    duration: "Aug 2022 - Present"
+    link: "https://www.sjsu.edu/"
+    description:
+      - "Graduate TA under Prof. Charan Bhaskar for Microprocessor Design course, assisting in assessments, grading and delivering lab lectures."
+      - "Graduate teaching assistant under Professor Vinh-Doan Thoi, for the course Computer Applications."
 
-  - name: "Research Assistant"
-    type: "Internship"
-    image: "nirma.png"
-    duration: "May 2020 - July 2020"
-    link: "https://www.nirmauni.ac.in/"
-    description:
-      - "Responsibility: Worked on “Optimizing Parallelization of Legacy Code on the appropriate HPC Platform” project,
-      funded by the Department of Atomic Energy, India"
-      - "PIC technique using CUDA, which simulates millions of particles in a single iteration and tested it on GTX690, and Quadro K620. Through which we achieved approx. 50x speedup"
 ---

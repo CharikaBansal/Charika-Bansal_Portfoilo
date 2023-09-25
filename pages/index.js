@@ -70,15 +70,14 @@ export default function Home(props) {
 				<Left visibility={visible}>
 					<section>
 						<h1>Hello, World!</h1>
-						<h1>I'm Harsh.</h1>
+						<h1>I'm Charika.</h1>
 						<p className="bio" >
-						    a Software Engineering Graduate student from{" "}
+						    a Computer Engineering Graduate student from{" "}
 							
 							<a href="https://www.sjsu.edu/" target="_blank">
 								San Jose State University
 							</a>
-							. Skilled in .NET Core, TypeScript, and React. Experienced in full-stack development and cloud computing.
-							Passionate about exploring new technologies. Let's connect and collaborate on innovative projects.
+							. As a Computer Engineering graduate from San Jose State University and an experienced Software Engineer from Capgemini, I've championed efficiency-driven projects and pioneered advancements in full-stack technologies. With a rich blend of hands-on experience and academic prowess, I bring a robust skill set anchored in Java, React-based application development, and Oracle Cloud Technologies. I excel not only in technical proficiencies but also in critical thinking, problem-solving, and harnessing essential soft skills. Passionate about charting innovative paths, I aim to drive technical progress and be an invaluable asset to teams eager for transformative solutions.
 							
 						</p>
 						<div className="headings">
@@ -100,16 +99,16 @@ export default function Home(props) {
 						</div>
 						<div className="profile">
 							<img src="/images/profile.jpg" />
-							<a href="mailto:harshnaiksjsu@gmail.com">harshnaiksjsu@gmail.com</a>
+							<a href="mailto:charika.bansal@gmail.com">charika.bansal@gmail.com</a>
 						</div>
 						<div className="details">
-							<Link href="https://github.com/autodidact7999" target="_blank">
+							<Link href="https://github.com/CharikaBansal" target="_blank">
 								<HiDocumentDownload size={18} />
 								<span>Resume</span>
 								<HiOutlineExternalLink size={16} />
 							</Link>
 							<Link
-								href="https://www.linkedin.com/in/harshnaik7999/"
+								href="https://www.linkedin.com/in/charikabansal/"
 								target="_blank"
 							>
 								<FaLinkedin size={18} />
