@@ -65,7 +65,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Charika</title>
-        <link rel="icon" type="image/png" href="/logo192.png" />
+        <link rel="icon" type="image/png" href="/charika.png" />
         <script src="/js/NotAtAllInteresting.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -74,22 +74,22 @@ function MyApp({ Component, pageProps }) {
         <meta name="title" content="Charika's Portfolio" />
         <meta
           name="description"
-          content="Charika is a passionate programmer who's on a journey to become a full-stack web developer. He's doing Masters in Software Engineering from San Jose State University, CA. He also likes playing console games and watching shows and hates talking about himself in the third person."
+          content="Charika is a passionate programmer who's on a journey to become a full-stack web developer. She's doing Masters in Computer Engineering from San Jose State University, CA. She also likes playing console games and watching shows and hates talking about hersel in the third person."
         />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://harshnaik.com/" />
+        <meta property="og:url" content="https://charikabansal.com/" />
         <meta property="og:title" content="Charika's Portfolio" />
         <meta
           property="og:description"
-          content="Harsh is a passionate programmer who's on a journey to become a full-stack web developer. He's doing Masters in Software Engineering from San Jose State University, CA. He also likes playing console games and watching shows and hates talking about himself in the third person."
+          content="Charika is a passionate programmer who's on a journey to become a full-stack web developer. She's doing Masters in Computer Engineering from San Jose State University, CA. She also likes playing console games and watching shows and hates talking about hersel in the third person."
         />
         <meta property="og:image" content="/og-image.jpg" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary" />
-        <link rel="apple-touch-icon" href="/logo192.png" />
+        <link rel="apple-touch-icon" href="/charika.png" />
         <link
           href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
           rel="stylesheet"

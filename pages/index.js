@@ -77,8 +77,7 @@ export default function Home(props) {
 							<a href="https://www.sjsu.edu/" target="_blank">
 								San Jose State University
 							</a>
-							. As a Computer Engineering graduate from San Jose State University and an experienced Software Engineer from Capgemini, I've championed efficiency-driven projects and pioneered advancements in full-stack technologies. With a rich blend of hands-on experience and academic prowess, I bring a robust skill set anchored in Java, React-based application development, and Oracle Cloud Technologies. I excel not only in technical proficiencies but also in critical thinking, problem-solving, and harnessing essential soft skills. Passionate about charting innovative paths, I aim to drive technical progress and be an invaluable asset to teams eager for transformative solutions.
-							
+							. As a Computer Engineering graduate from San Jose State University and experienced Software Engineer at Capgemini, I've led efficiency-driven projects and advanced full-stack technologies. My robust skill set is anchored in Java, React, and Oracle Cloud Technologies, blending hands-on experience and academic knowledge. I excel in critical thinking, problem-solving, and essential soft skills, striving to drive innovation and be a valuable asset to forward-thinking teams.							
 						</p>
 						<div className="headings">
 							<a id="link-skills" href="#skills">
