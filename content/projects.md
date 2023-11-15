@@ -11,5 +11,9 @@ projects:
   - name: "Apartment Hunter"
     platform: "web"
     stack: "Built a full-stack web application using Java, Spring Boot, and MongoDB. The platform aggregates apartment data from multiple websites and offers a centralized search solution for San Jose State University (SJSU) students. Implemented continuous integration and deployment using Jenkins, and the project is containerized with Docker and deployed on a Kubernetes cluster, ensuring high availability and scalability."
+
+  - name: "mage Encryption and Decryption CLI"
+    platform: "web"
+    stack: "Developed a command-line interface (CLI) tool in Node.js for image encryption and decryption using XOR-based encryption. The tool can read input images, generate random encryption keys, apply encryption to pixel data, and securely store keys. It also supports decryption, retrieving keys, and saving decrypted images. This project demonstrates proficiency in cryptography, image processing, and CLI application development."
     
 ---
