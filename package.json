@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "dependencies": {
     "gray-matter": "^4.0.2",
